@@ -1,2 +1,5 @@
 # MobileNet-CIFAR-10
-This is the repository for Introduction to Computational Sciences Course
+Team Members
+T. Harshavardhan - CS25B1042
+B. Vignesh - MC25B1014
+Adelly Sai Teja - CS25B1003
