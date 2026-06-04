@@ -437,18 +437,7 @@ This allows:
 
 ---
 
-# 🔮 Future Improvements
 
-Possible future enhancements include:
-
-- Fine-tuning MobileNet layers
-- Data augmentation
-- Hyperparameter optimization
-- Testing EfficientNet and ResNet architectures
-- Experimenting with different custom loss functions
-- Increasing training epochs
-
----
 
 # 📚 References
 
