@@ -324,7 +324,7 @@ The model was trained on CIFAR-10 using MobileNet and the Custom Hybrid Loss Fun
 # 👥 Team Contributions
 
 
-### T. Harshavardhan 
+### T. Harshavardhan (CS25B1042)
 
 - Dataset preparation
 - CIFAR-10 analysis
@@ -334,7 +334,7 @@ The model was trained on CIFAR-10 using MobileNet and the Custom Hybrid Loss Fun
 
 ---
 
-### Adelly Sai Teja 
+### Adelly Sai Teja (CS25B1003)
 
 - Custom Hybrid Loss design
 - Focal Loss implementation
@@ -344,7 +344,7 @@ The model was trained on CIFAR-10 using MobileNet and the Custom Hybrid Loss Fun
 
 ---
 
-### B. Vignesh 
+### B. Vignesh (MC25B1014)
 
 - MobileNet integration
 - Transfer learning setup
@@ -354,7 +354,7 @@ The model was trained on CIFAR-10 using MobileNet and the Custom Hybrid Loss Fun
 
 ---
 
-### Darsi Praneeth Kumar
+### Darsi Praneeth Kumar (CS25B1013)
 
 - Performance evaluation
 - Precision, Recall and F1-score analysis
@@ -420,7 +420,6 @@ The program will:
 - Save trained model
 
 ---
-
 # 💾 Saved Model
 
 The trained model is stored as:
@@ -428,6 +427,7 @@ The trained model is stored as:
 ```text
 mobilenet_cifar10_hybrid.keras
 ```
+
 
 This allows:
 
